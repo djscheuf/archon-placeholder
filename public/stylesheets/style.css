@@ -1,0 +1,19 @@
+html { height: 100%; }
+body {
+  padding: 0;
+  margin: 0;
+  font: 14px sans-serif;
+  height: 100%;
+}
+
+a { color: #00B7FF; }
+
+h1 { font: 80px "Shadows Into Light", sans-serif; }
+#nameplate {
+  background-image: url('../images/nameplate-background.jpg');
+  background-size: cover;
+  box-sizing: border-box;
+  height: 100%;
+  padding: 50px;
+}
+#nameplate * { text-align: center; }
